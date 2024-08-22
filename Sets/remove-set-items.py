@@ -9,3 +9,8 @@ print("====================================")
 thisset = {"apple", "banana", "cherry"}
 thisset.discard("banana")
 print(thisset)
+
+### Remove a random item by using the pop() method:
+
+
+
