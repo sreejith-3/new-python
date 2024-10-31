@@ -3,7 +3,7 @@
 ### We can create a NumPy ndarray object by using the array() function.
 
 import numpy as np
-arr = np.array([1, 2, 3, 4, 5])
+arr = np.array([1, 2, 3, 4, 5]) # This is the array function
 
 print(arr)
 
