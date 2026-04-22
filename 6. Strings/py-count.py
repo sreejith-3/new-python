@@ -1,3 +1,5 @@
+### count()	Returns the number of times a specified value occurs in a string
+
 ### Syntax : string.count(substring, start, end) # Start Index , End Index
 ### ======================================================================
 

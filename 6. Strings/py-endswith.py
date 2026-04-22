@@ -1,3 +1,5 @@
+### endswith()	Returns true if the string ends with the specified value
+
 # Define a string
 text = "hello beautiful world"
 

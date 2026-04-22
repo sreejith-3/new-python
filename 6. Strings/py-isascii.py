@@ -1,3 +1,5 @@
+### isascii()	Returns True if all characters in the string are ascii characters
+
 # Define a string with ASCII characters
 text = "Hello123!"
 
